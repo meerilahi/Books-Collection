@@ -10,7 +10,3 @@ This repository contains a collection of books I have downloaded related to **Ma
 
 ## 🔥 How to Use  
 If you're looking for book recommendations in these domains, feel free to check out this list! I also welcome any suggestions on must-read books.  
-
----  
-
-Let me know if you'd like to add sections for book summaries or notes! 😊  
